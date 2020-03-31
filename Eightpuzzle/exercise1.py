@@ -1,7 +1,7 @@
 import time
 from eightpuzzle import EightPuzzle
 
-puzzle = EightPuzzle(mode="easy")
+puzzle = EightPuzzle(mode="hard")
 
 init_state = puzzle.reset()
 goal_state = puzzle.goal()
@@ -49,7 +49,6 @@ visited = set(str(init_state))
 solution_node = None
 while len(fringe) > 0:
     current_node = fringe.pop(0)
-    print(current_node.f - current_node.g)
     current_state = current_node.s
     if current_state == goal_state:
         solution_node = current_node

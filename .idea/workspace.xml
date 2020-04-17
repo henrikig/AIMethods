@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9658bb-1bb0-4055-864c-a6cbbe313f16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,12 +37,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Perceptron" />
       <recent name="$PROJECT_DIR$/Uncertainty" />
       <recent name="$PROJECT_DIR$/Tictactoe" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.classifier">
+  <component name="RunManager" selected="Python.perceptron">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,6 +70,9 @@
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Uncertainty" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -85,20 +88,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="intro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Eightpuzzle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Perceptron" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Eightpuzzle/exercise1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Perceptron/intro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,20 +107,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="numpy_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Perceptron" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab02 Eightpuzzle/exercise1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Perceptron/numpy_file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,20 +126,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="minimax" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="perceptron" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tictactoe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Perceptron" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tictactoe/minimax.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Perceptron/perceptron.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="polynomial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Perceptron" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Perceptron/polynomial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,10 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.perceptron" />
+        <item itemvalue="Python.polynomial" />
+        <item itemvalue="Python.numpy_file" />
+        <item itemvalue="Python.intro" />
         <item itemvalue="Python.classifier" />
-        <item itemvalue="Python.minimax" />
-        <item itemvalue="Python.exercise1 (1)" />
-        <item itemvalue="Python.exercise1" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +206,8 @@
       <workItem from="1585652171341" duration="6790000" />
       <workItem from="1585747355639" duration="3528000" />
       <workItem from="1585813723021" duration="5463000" />
-      <workItem from="1585826288366" duration="2184000" />
+      <workItem from="1585826288366" duration="2310000" />
+      <workItem from="1587106319687" duration="10612000" />
     </task>
     <servers />
   </component>
@@ -200,18 +215,24 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="430" y="261" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585750255878">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="2013" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587107539693">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
+    <state x="2013" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1587107539693" />
     <state x="430" y="261" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1585750255878" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1585652700289">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585652700289" />
-    <state x="380" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1585747356606">
+    <state x="380" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1587106320090">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state x="380" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1587106320090" />
     <state x="380" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1585747356606" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1587127862667">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1587127862667" />
   </component>
   <component name="masterDetails">
     <states>

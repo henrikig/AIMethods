@@ -3,6 +3,39 @@
   <component name="ChangeListManager">
     <list default="true" id="8a9658bb-1bb0-4055-864c-a6cbbe313f16" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/Apr-30-2020-12-06-24-randomPlayer-vs-randomPlayer-game001.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/Apr-30-2020-12-11-36-randomPlayer-vs-hunterPlayer-game001.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/Apr-30-2020-13-11-12-randomPlayer-vs-myAgent-game001.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/Apr-30-2020-13-11-49-randomPlayer-vs-myAgent-game005.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-01-2020-13-58-43-randomPlayer-vs-myAgent-game001.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-01-2020-13-59-44-randomPlayer-vs-myAgent-game001.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-01-2020-14-06-59-randomPlayer-vs-myAgent-game500.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-01-2020-15-18-12-hunterPlayer-vs-myAgent-game100.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-03-2020-09-50-13-randomPlayer-vs-myAgent-game001.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-03-2020-09-52-05-randomPlayer-vs-myAgent-game100.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-03-2020-09-52-42-randomPlayer-vs-myAgent-game001.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-03-2020-09-54-33-randomPlayer-vs-myAgent-game100.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-03-2020-09-55-20-hunterPlayer-vs-myAgent-game001.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-03-2020-09-56-42-hunterPlayer-vs-myAgent-game100.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-03-2020-10-04-02-randomPlayer-vs-myAgent-game001.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-03-2020-10-05-20-randomPlayer-vs-myAgent-game100.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-03-2020-10-12-20-randomPlayer-vs-myAgent-game001.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-03-2020-10-14-22-randomPlayer-vs-myAgent-game100.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-03-2020-10-14-51-randomPlayer-vs-myAgent-game001.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-03-2020-10-16-50-randomPlayer-vs-myAgent-game100.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-03-2020-11-39-40-randomPlayer-vs-myAgent-game001.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-03-2020-11-41-29-randomPlayer-vs-myAgent-game100.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-03-2020-16-47-17-randomPlayer-vs-myAgent-game001.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-03-2020-16-49-06-randomPlayer-vs-myAgent-game100.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-08-2020-09-05-10-randomPlayer-vs-myAgent-game001.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-08-2020-09-07-05-randomPlayer-vs-myAgent-game100.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-08-2020-09-25-10-randomPlayer-vs-myAgent-game001.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-08-2020-09-27-51-randomPlayer-vs-myAgent-game001.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-08-2020-09-28-57-randomPlayer-vs-myAgent-game001.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-08-2020-09-30-20-randomPlayer-vs-myAgent-game100.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-08-2020-14-45-18-randomPlayer-vs-myAgent-game001.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-08-2020-14-46-45-randomPlayer-vs-myAgent-game100.pickle.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneticAlgorithm/saved/May-08-2020-14-48-57-randomPlayer-vs-myAgent-game001.pickle.gz" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +70,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NeuralNetworks" />
       <recent name="$PROJECT_DIR$/GeneticAlgorithm" />
       <recent name="$PROJECT_DIR$/Perceptron" />
       <recent name="$PROJECT_DIR$/Uncertainty" />
       <recent name="$PROJECT_DIR$/Tictactoe" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.game">
+  <component name="RunManager" selected="Python.regression">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,6 +92,44 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NeuralNetworks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NeuralNetworks/classification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="diabetes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NeuralNetworks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NeuralNetworks/diabetes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,64 +182,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numpy_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="regression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Perceptron" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NeuralNetworks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Perceptron/numpy_file.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="perceptron" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="labs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Perceptron" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Perceptron/perceptron.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="polynomial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="labs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Perceptron" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Perceptron/polynomial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NeuralNetworks/regression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.regression" />
+        <item itemvalue="Python.diabetes" />
+        <item itemvalue="Python.classification" />
         <item itemvalue="Python.game" />
         <item itemvalue="Python.fitness_plot" />
-        <item itemvalue="Python.perceptron" />
-        <item itemvalue="Python.polynomial" />
-        <item itemvalue="Python.numpy_file" />
       </list>
     </recent_temporary>
   </component>
@@ -228,6 +252,7 @@
       <workItem from="1588921485727" duration="7402000" />
       <workItem from="1589187184110" duration="1051000" />
       <workItem from="1589394751716" duration="483000" />
+      <workItem from="1589869826352" duration="7224000" />
     </task>
     <servers />
   </component>
@@ -244,9 +269,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585652700289" />
-    <state x="380" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1589394753936">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="-1413" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1589869826018">
+      <screen x="-1920" y="23" width="1920" height="1177" />
     </state>
+    <state x="-1413" y="387" key="com.intellij.ide.util.TipDialog/0.23.1440.877/-1920.23.1920.1177@-1920.23.1920.1177" timestamp="1589869826018" />
     <state x="380" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877/-1920.23.1920.1177@0.23.1440.877" timestamp="1589394753936" />
     <state x="380" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1587106320090" />
     <state x="380" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1589187184122" />
@@ -254,9 +280,10 @@
       <screen x="-1200" y="23" width="1200" height="1897" />
     </state>
     <state x="-502" y="1270" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877/-1200.23.1200.1897@-1200.23.1200.1897" timestamp="1589395344767" />
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1587127862667">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="-879" y="434" width="670" height="1463" key="search.everywhere.popup" timestamp="1589879911851">
+      <screen x="-1200" y="23" width="1200" height="1897" />
     </state>
+    <state x="-879" y="434" width="670" height="1463" key="search.everywhere.popup/0.23.1440.877/-1200.23.1200.1897@-1200.23.1200.1897" timestamp="1589879911851" />
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1587127862667" />
   </component>
   <component name="masterDetails">

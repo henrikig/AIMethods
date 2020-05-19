@@ -37,13 +37,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/GeneticAlgorithm" />
       <recent name="$PROJECT_DIR$/Perceptron" />
       <recent name="$PROJECT_DIR$/Uncertainty" />
       <recent name="$PROJECT_DIR$/Tictactoe" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.perceptron">
+  <component name="RunManager" selected="Python.game">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="classifier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fitness_plot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,12 +75,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Uncertainty" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GeneticAlgorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Uncertainty/classifier.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeneticAlgorithm/fitness_plot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,17 +89,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="intro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Perceptron" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GeneticAlgorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Perceptron/intro.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeneticAlgorithm/game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,6 +115,9 @@
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Perceptron" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -130,6 +137,9 @@
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Perceptron" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -149,6 +159,9 @@
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Perceptron" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -166,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.game" />
+        <item itemvalue="Python.fitness_plot" />
         <item itemvalue="Python.perceptron" />
         <item itemvalue="Python.polynomial" />
         <item itemvalue="Python.numpy_file" />
-        <item itemvalue="Python.intro" />
-        <item itemvalue="Python.classifier" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +220,14 @@
       <workItem from="1585747355639" duration="3528000" />
       <workItem from="1585813723021" duration="5463000" />
       <workItem from="1585826288366" duration="2310000" />
-      <workItem from="1587106319687" duration="10612000" />
+      <workItem from="1587106319687" duration="10822000" />
+      <workItem from="1588240931961" duration="4496000" />
+      <workItem from="1588322686947" duration="13757000" />
+      <workItem from="1588487485418" duration="725000" />
+      <workItem from="1588488238544" duration="6923000" />
+      <workItem from="1588921485727" duration="7402000" />
+      <workItem from="1589187184110" duration="1051000" />
+      <workItem from="1589394751716" duration="483000" />
     </task>
     <servers />
   </component>
@@ -215,20 +235,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2013" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587107539693">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state x="430" y="261" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588323746787">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="2013" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1587107539693" />
-    <state x="430" y="261" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1585750255878" />
+    <state x="430" y="261" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1588323746787" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1585652700289">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585652700289" />
-    <state x="380" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1587106320090">
+    <state x="380" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1589394753936">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state x="380" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877/-1920.23.1920.1177@0.23.1440.877" timestamp="1589394753936" />
     <state x="380" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1587106320090" />
-    <state x="380" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1585747356606" />
+    <state x="380" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1589187184122" />
+    <state x="-502" y="1270" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589395344767">
+      <screen x="-1200" y="23" width="1200" height="1897" />
+    </state>
+    <state x="-502" y="1270" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877/-1200.23.1200.1897@-1200.23.1200.1897" timestamp="1589395344767" />
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1587127862667">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
